@@ -27,6 +27,7 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
 ## Contributors
 * [BurgerKerman](https://github.com/BurgerKerman): Localization support, Russian localization
 * [munktron239](https://github.com/munktron239): OrbitIconsPack support
+* [chickenspaceprogram](https://github.com/chickenspaceprogram): Bugfixes for case sensitive filesystems
 
 ## Installation
 * Remove any preexisting QuackPack installations (QuackPack folder within GameData folder in KSP directory)
